@@ -18,37 +18,11 @@ I expect to learn a lot more about the IT industry as a whole, whether it is lea
 
 https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
 
+<img src="idealjob.jpg">
+IT support co-ordinators are responsible for developing, organising and implementing a company’s IT goals. They can provide the organisation general support duties such as monitoring computer performances, providing and installing updates on the work systems, installing software for the technology and could also work on fixing hardware issues. I find this position appealing because I would be able to monitor the companies systems in real time, and fix any issues that arise. I enjoy problem solving tech issues and determining whether it is a hardware or software issue. This job also contains an administrative and managerial side, which I could see myself being successful with as I enjoy working with others and in a team environment. 
+
+Typically, people hired for this job have completed a Bachelor in computer or information science for the mathematics, software development and programming skills required. Not only does it require you to have good knowledge about technology and software, but you will also need to be a good leader with strong communication and organisation skills.
+
+I believe I have good communication skills, however, currently do not have the technology skills yet, which is why I have decided to do this Bachelor of IT. This course and the knowledge and skills taught within it are going to assist me in being able to reach my goal. Further I will work on honing leadership skills throughout the course and beyond to further cement my abilities. 
 
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimR01/Assessment1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
