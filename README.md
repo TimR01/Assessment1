@@ -18,7 +18,7 @@ I expect to learn a lot more about the IT industry as a whole, whether it is lea
 
 https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
 
-<img src="idealjob.png">
+
 
 
 ### Markdown
