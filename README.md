@@ -18,11 +18,36 @@ I expect to learn a lot more about the IT industry as a whole, whether it is lea
 
 https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
 
-<img src="idealjob.jpg">
+<img src="idealjob.jpg"> <br>
 IT support co-ordinators are responsible for developing, organising and implementing a company’s IT goals. They can provide the organisation general support duties such as monitoring computer performances, providing and installing updates on the work systems, installing software for the technology and could also work on fixing hardware issues. I find this position appealing because I would be able to monitor the companies systems in real time, and fix any issues that arise. I enjoy problem solving tech issues and determining whether it is a hardware or software issue. This job also contains an administrative and managerial side, which I could see myself being successful with as I enjoy working with others and in a team environment. 
 
 Typically, people hired for this job have completed a Bachelor in computer or information science for the mathematics, software development and programming skills required. Not only does it require you to have good knowledge about technology and software, but you will also need to be a good leader with strong communication and organisation skills.
 
 I believe I have good communication skills, however, currently do not have the technology skills yet, which is why I have decided to do this Bachelor of IT. This course and the knowledge and skills taught within it are going to assist me in being able to reach my goal. Further I will work on honing leadership skills throughout the course and beyond to further cement my abilities. 
+
+<h1>Personal Profile</h1>
+<br>
+<h2>Myers-Briggs</h2>
+<img src="MyersBriggs.png> <br>
+<h2>Learning Style test</h2>
+Your Scores:
+•	Auditory: 45%
+•	Visual: 30%
+•	Tactile: 25%
+You are an Auditory learner! 
+
+Auditory
+If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
+As an auditory learner, you probably hum or talk to yourself or others if you become bored. People may think you are not paying attention, even though you may be hearing and understanding everything being said.
+Here are some things that auditory learners like you can do to learn better.
+•	Sit where you can hear.
+•	Have your hearing checked on a regular basis.
+•	Use flashcards to learn new words; read them out loud.
+•	Read stories, assignments, or directions out loud.
+•	Record yourself spelling words and then listen to the recording.
+•	Have test questions read to you out loud.
+•	Study new material by reading it out loud.
+Remember that you need to hear things, not just see things, in order to learn well.
+
 
 
