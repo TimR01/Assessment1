@@ -1,6 +1,9 @@
-## Timothy Rosewarne - My Profile
+## My Profile
 
-You can use the [editor on GitHub](https://github.com/TimR01/Assessment1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2>Introduction</h2>
+<p1> Timothy Rosewarne								S3864775
+TimRosewarne09@hotmail.com				S3864775@student.rmit.edu.au </p1>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
