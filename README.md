@@ -1,5 +1,3 @@
-## My Profile
-
 <h2>Introduction</h2>
 <p1> Timothy Rosewarne <br>								S3864775 <br>
 TimRosewarne09@hotmail.com <br>			S3864775@student.rmit.edu.au <br> 
@@ -28,7 +26,7 @@ I believe I have good communication skills, however, currently do not have the t
 <h1>Personal Profile</h1>
 <br>
 <h2>Myers-Briggs</h2>
-<img src="MyersBriggs".png> <br>
+<img src="MyersBriggs.png"> <br>
 <h2>Learning Style test</h2>
 Your Scores:
 •	Auditory: 45%
