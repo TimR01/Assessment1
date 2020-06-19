@@ -16,7 +16,7 @@ I expect to learn a lot more about the IT industry as a whole, whether it is lea
 
 <h2>Ideal Job</h2>
 
-https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
+<link>https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2</link>
 
 <img src="idealjob.jpg"> <br>
 IT support co-ordinators are responsible for developing, organising and implementing a company’s IT goals. They can provide the organisation general support duties such as monitoring computer performances, providing and installing updates on the work systems, installing software for the technology and could also work on fixing hardware issues. I find this position appealing because I would be able to monitor the companies systems in real time, and fix any issues that arise. I enjoy problem solving tech issues and determining whether it is a hardware or software issue. This job also contains an administrative and managerial side, which I could see myself being successful with as I enjoy working with others and in a team environment. 
