@@ -25,7 +25,7 @@ I believe I have good communication skills, however, currently do not have the t
 
 <h1>Personal Profile</h1>
 <br>
-<h2>Myers-Briggs</h2>
+<h2>Myers-Briggs</h2> <br>
 <img src="MyersBriggs.jpg"> <br>
 <h2>Learning Style test</h2>
 Your Scores: <br>
