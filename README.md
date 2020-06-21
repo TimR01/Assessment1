@@ -4,8 +4,8 @@ S3864775@student.rmit.edu.au <br> <br>
 
 I am Australian and was born in Brisbane. Previous to this course, I completed year 12 and have since worked in the dredging industry. In 2019 I worked at Mt. Hotham during the snow season, which was a very different experience for me. I really enjoyed my time at the snow and it allowed me to finally move out of home. After the season concluded, I moved down to Melbourne and am really enjoying the change, especially the colder weather. I have always wanted to learn another language, preferably Italian or Japanese. I absolutely love animals and find all kinds fascinating. My favourite animal is either a White Tiger or a Capuchin Monkey. My favourite sport is basketball, but I really love any sport. Growing up I played rugby league for 11 years and have always enjoyed playing different sports socially. </p1>
 
-<h2>Interest in IT</h2>
-<p2> I am interested in IT because it is always growing and changing to become better and to make everyday life tasks even easier. I find it so fascinating how we can use devices and machines in such a broad way to help us complete and learn so many different things. IT has always been great source of entertainment for me whether it be music, television or playing video games. I have been interested in IT ever since I was a young kid and playing a lot of video games. I am looking forward to learning more about the mechanics and gain a more in depth knowledge of hardware and software. I don’t have a lot of experience in the IT industry, only what I have previously studied at school, or the tech I use at home such as computers, gaming devices, mobile phones and using POS in retail. 
+<h1>Interest in IT</h1>
+I am interested in IT because it is always growing and changing to become better and to make everyday life tasks even easier. I find it so fascinating how we can use devices and machines in such a broad way to help us complete and learn so many different things. IT has always been great source of entertainment for me whether it be music, television or playing video games. I have been interested in IT ever since I was a young kid and playing a lot of video games. I am looking forward to learning more about the mechanics and gain a more in depth knowledge of hardware and software. I don’t have a lot of experience in the IT industry, only what I have previously studied at school, or the tech I use at home such as computers, gaming devices, mobile phones and using POS in retail. 
 
 I am studying through Open University’s Australia which offered me a range of different IT degrees from many universities. RMIT has a great reputation in the IT field and for that reason, I was drawn to studying here. Friends who have completed their degrees at RMIT have reported to me that they received great training, which set them up for their careers in IT. I also enjoy that RMIT offers different specialisations within the degree so I have the option to make my university experience specific to my needs and interests. 
 
@@ -15,9 +15,9 @@ I expect to learn a lot more about the IT industry as a whole, whether it is lea
 <h2>Ideal Job</h2>
 
 <link> https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
-<br>
-<img src="idealjob.jpg"> 
 <br> <br>
+<img src="idealjob.jpg"> 
+<br> (SEEK 2020) <br> <br>
 IT support co-ordinators are responsible for developing, organising and implementing a company’s IT goals. They can provide the organisation general support duties such as monitoring computer performances, providing and installing updates on the work systems, installing software for the technology and could also work on fixing hardware issues (Robert Half 2020). I find this position appealing because I would be able to monitor the companies systems in real time, and fix any issues that arise. I enjoy problem solving tech issues and determining whether it is a hardware or software issue. This job also contains an administrative and managerial side, which I could see myself being successful with as I enjoy working with others and in a team environment. 
 
 Typically, people hired for this job have completed a Bachelor in computer or information science for the mathematics, software development and programming skills required. Not only does it require you to have good knowledge about technology and software, but you will also need to be a good leader with strong communication and organisation skills.
@@ -26,10 +26,10 @@ I believe I have good communication skills, however, currently do not have the t
 
 <h1>Personal Profile</h1>
 <br>
-<h2>Myers-Briggs</h2> <br>
+<h3>Myers-Briggs</h3> <br>
 <img src="myersbriggs.jpg"> 
 <br> (The Myers & Briggs Foundation 2020)<br> <br>
-<h2>Learning Style test</h2>
+<h3>Learning Style test</h3>
 Your Scores: <br>
 •	Auditory: 45% <br>
 •	Visual: 30% <br>
@@ -37,9 +37,9 @@ Your Scores: <br>
 You are an Auditory learner! <br>
 
 Auditory <br>
-<p3> If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
+If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
 As an auditory learner, you probably hum or talk to yourself or others if you become bored. People may think you are not paying attention, even though you may be hearing and understanding everything being said.
-Here are some things that auditory learners like you can do to learn better. </p3> <br>
+Here are some things that auditory learners like you can do to learn better. <br>
 •	Sit where you can hear. <br>
 •	Have your hearing checked on a regular basis. <br>
 •	Use flashcards to learn new words; read them out loud. <br>
@@ -72,19 +72,20 @@ When Infoto comes to life, we would have a fully functioning, easy to use mobile
 
 <h1>References</h1>
 <br>
-Apple Inc. 2020, Xcode IDE, viewed 18 June 2020, https://developer.apple.com/xcode/features/
+Apple Inc. 2020, <i>Xcode IDE</i>, viewed 18 June 2020, https://developer.apple.com/xcode/features/
 <br> <br>
-Education Planner 2020, Learning style quiz, viewed 18 June 2020, http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=6&T=5
+Education Planner 2020, <i>Learning style quiz</i>, viewed 18 June 2020, http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=6&T=5
 <br> <br>
-Google 2020, Google Analytics, viewed 18 June 2020, https://analytics.google.com/analytics/web/provision/#/provision
+Google 2020, <i>Google Analytics</i>, viewed 18 June 2020, https://analytics.google.com/analytics/web/provision/#/provision
 <br> <br>
-Moazed, A 2020, Tools for building an app, viewed date 18 June 2020, https://www.applicoinc.com/blog/essential-tools-for-building-a-mobile-app/ 
+Moazed, A 2020, <i>Tools for building an app</i>, viewed date 18 June 2020, https://www.applicoinc.com/blog/essential-tools-for-building-a-mobile-app/ 
 <br> <br>
-Robert Half 2020, IT support job description guide, viewed date 18 June 2020, https://www.roberthalf.com.au/employers/it-technology/help-desk-jobs
+Robert Half 2020, <i>IT support job description guide</i>, viewed date 18 June 2020, https://www.roberthalf.com.au/employers/it-technology/help-desk-jobs
 <br> <br>
-The Myers & Briggs Foundation 2020, MBTI Basics, viewed 18 June 2020, https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/
+SEEK 2020, <i>IT Support Co-ordinator</i>, viewed 18 June 2020, https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
+The Myers & Briggs Foundation 2020, <i>MBTI Basics</i>, viewed 18 June 2020, https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/
 <br> <br>
-Uzzi, B 2020, Creativity Test, viewed date 18 June 2020, https://www.kellogg.northwestern.edu/faculty/uzzi/ftp/page176.html
+Uzzi, B 2020, <i>Creativity Test</i>, viewed date 18 June 2020, https://www.kellogg.northwestern.edu/faculty/uzzi/ftp/page176.html
 
 
 
