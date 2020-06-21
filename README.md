@@ -14,7 +14,7 @@ I expect to learn a lot more about the IT industry as a whole, whether it is lea
 
 <h2>Ideal Job</h2>
 
-<link>https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2</link>
+<link> https://www.seek.com.au/job/50084345?type=standout#searchRequestToken=ab6f5196-1126-4129-aa42-400dd02561d2
 <br>
 <img src="idealjob.jpg"> 
 <br> <br>
@@ -64,26 +64,26 @@ Infoto gives the user the option to take a photo of an object and upload it to t
 <br>
 The Infoto app will be free to download and will give companies the opportunity to advertise through it. A No-Cost app will increase the popularity and get the brand name out, encouraging consumers to recommend the app to others. Companies to may benefit from the app such as travel agents and purchasing stores will pay to advertise on the app if they want their brand to appear first in the search results, or have additional advertising through the app, similar to other apps you may see today. Infoto will have a paid option to remove ads from the feed, if the consumer wishes to, similar to many apps already developed. <br> 
 In order to make this project possible, Infoto will require to be developed using a platform to build the app on such as Xcode for iOS, eclipse for Andriod or other cross platform tools as these are the most popular platforms to use. Xcode is a great tool to use as it allows users to design and test user interface without writing any code, When you make a coding mistake, Xcode will alert you straight away, and a single keyboard shortcut will instantly fix the issue saving a lot of time for coding, the asset catalogue will allow the user to store and manage their images and keep it efficient. To get the name and branding of Infoto out, it will need to be advertised somewhere such as online, advertised in the app store and on other apps or in a magazine. Similar to other apps especially with reviews on the play store or app store we will be able to determine any feedback ideas and be able to work around them to fix issues or improve the app. Tools such as Google Analytics and Localytics allows developers to track how consumers are using the app and what they aren’t using or what areas need to be improved and which areas are working well. <br>
-<link> Analytics.google.com </link> <br>
-<link> https://developer.apple.com/xcode/features/ </link> <br>
+<link> Analytics.google.com <br>
+<link> https://developer.apple.com/xcode/features/ <br>
 In order to make Infoto come to life, the developer will have to have many skills such as the ability to create mobile apps, hardware and software knowledge. In order for the app to run smoothly and efficiently, the developer will develop a program to get the camera to scan any object and then link the photo with a written description of the closest match to the photo on the web, or link to websites to buy from and bringing up a map of the closest place to find the object if the user requests it. Infoto to show them where to go for that item. The technical skills the developer will need would include a strong knowledge of the iOS and Android Platforms, User interface and user experience design skills, web service design experiences including reliability, security and scalability. They would also require experience in information security, understanding of access management and excellent oral and written communication skills to be able to work with customers. With my current skill set, I could see myself running into many issues due to my current limited knowledge. Engaging with a team of app developers who are skilled in this area would be of great benefit to me, and feasible in order to get the program up and running. I would need to further improve my skills in Project management, app design skills, coding skills, security and user interface and user experience features as they are very important for creating any app.
 When Infoto comes to life, we would have a fully functioning, easy to use mobile platform which will educate people about whatever they are interested in learning about. It will also encourage people to be more curious about certain things rather than just walking past it if they don’t know what it is. Today’s society is busy, we do not have time to waste thinking about descriptive words to google while the children are asking hundreds of questions. Infoto will be able to answer all of our questions at a touch of a button, giving us more time to spend with family and friends, and less time on our phones. 
 
 
 <h1>References</h1> <br>
 Myers briggs personality test
-<link> https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/ </link>
+<link> https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/
 
 Education planner – Learning style quiz
-<link> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=6&T=5 </link>
+<link> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=6&T=5 
 
-Kellogg Brian Uzzi Creativity Test <link> https://www.kellogg.northwestern.edu/faculty/uzzi/ftp/page176.html </link>
+Kellogg Brian Uzzi Creativity Test <link> https://www.kellogg.northwestern.edu/faculty/uzzi/ftp/page176.html 
 
-Applico – Alex Moazed 2020 Tools for building an app <link> https://www.applicoinc.com/blog/essential-tools-for-building-a-mobile-app/ </link>
+Applico – Alex Moazed 2020 Tools for building an app <link> https://www.applicoinc.com/blog/essential-tools-for-building-a-mobile-app/
 
 Google Analytics Analytics.google.com
 
-Xcode IDE <link>https://developer.apple.com/xcode/features/ </link>
+Xcode IDE <link>https://developer.apple.com/xcode/features/ 
 
 
 
