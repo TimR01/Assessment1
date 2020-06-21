@@ -28,23 +28,23 @@ I believe I have good communication skills, however, currently do not have the t
 <h2>Myers-Briggs</h2>
 <img src="MyersBriggs.png"> <br>
 <h2>Learning Style test</h2>
-Your Scores:
-•	Auditory: 45%
-•	Visual: 30%
-•	Tactile: 25%
-You are an Auditory learner! 
+Your Scores: <br>
+•	Auditory: 45% <br>
+•	Visual: 30% <br>
+•	Tactile: 25% <br>
+You are an Auditory learner! <br>
 
-Auditory
-If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
+Auditory <br>
+<p3> If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
 As an auditory learner, you probably hum or talk to yourself or others if you become bored. People may think you are not paying attention, even though you may be hearing and understanding everything being said.
-Here are some things that auditory learners like you can do to learn better.
-•	Sit where you can hear.
-•	Have your hearing checked on a regular basis.
-•	Use flashcards to learn new words; read them out loud.
-•	Read stories, assignments, or directions out loud.
-•	Record yourself spelling words and then listen to the recording.
-•	Have test questions read to you out loud.
-•	Study new material by reading it out loud.
+Here are some things that auditory learners like you can do to learn better. </p3> <br>
+•	Sit where you can hear. <br>
+•	Have your hearing checked on a regular basis. <br>
+•	Use flashcards to learn new words; read them out loud. <br>
+•	Read stories, assignments, or directions out loud. <br>  
+•	Record yourself spelling words and then listen to the recording. <br>
+•	Have test questions read to you out loud. <br>
+•	Study new material by reading it out loud. <br>
 Remember that you need to hear things, not just see things, in order to learn well. <br>
 <img src="CreativityTest.png">
 
