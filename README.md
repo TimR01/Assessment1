@@ -26,7 +26,7 @@ I believe I have good communication skills, however, currently do not have the t
 <h1>Personal Profile</h1>
 <br>
 <h2>Myers-Briggs</h2>
-<img src="MyersBriggs.png"> <br>
+<img src="MyersBriggs.jpg"> <br>
 <h2>Learning Style test</h2>
 Your Scores: <br>
 •	Auditory: 45% <br>
@@ -46,6 +46,6 @@ Here are some things that auditory learners like you can do to learn better. </p
 •	Have test questions read to you out loud. <br>
 •	Study new material by reading it out loud. <br>
 Remember that you need to hear things, not just see things, in order to learn well. <br>
-<img src="CreativityTest.png">
+<img src="CreativityTest.jpg">
 
 
